@@ -1,0 +1,1 @@
+# Alejandro-Lodgify-Automation-QA-Test
