@@ -152,7 +152,7 @@ it('Should have the Date picker working chossing ' + month1 + ' '+daySince+ ' an
 
 
 
-    it('Should have the form sending working', () => {
+    it('Should have the form sending functionality working', () => {
       
       //name
       element.getNameInput().invoke('val').should('be.empty').then(()=>{
